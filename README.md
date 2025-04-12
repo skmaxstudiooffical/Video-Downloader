@@ -39,13 +39,13 @@ python main.py
 • Press Enter after each URL
 
 ──────────────────────────
-
+```
 Enter URL 1 (or 'e' to start download): https://example.com/video.mp4
-
+```
 ✅ URL 1 added
-
+```
 Enter URL 2 (or 'e' to start download): e
-
+```
 
 ```
 📋 URLs to download:
